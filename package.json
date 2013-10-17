@@ -1,0 +1,23 @@
+{
+  "name": "tstream",
+  "version": "0.0.1",
+  "description": "Sugar for creating basic node.js stream.Transform",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jasonkuhrt/tstream.git"
+  },
+  "keywords": [
+    "stream",
+    "transform",
+    "sugar",
+    "functional"
+  ],
+  "author": "Jason Kuhrt <jasonkuhrt@me.com> (http://jasonkuhrt.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasonkuhrt/tstream/issues"
+  }
+}
